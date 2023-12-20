@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "65760d926d63a2400ffcaf78"
+  },
+  "id": 1,
+  "name": "Cara",
+  "age": 2,
+  "gender": "Female",
+  "type": "Cat",
+  "size": "4 kg",
+  "personality_traits": "['Friendly', 'Energetic', 'Playful']",
+  "status": "Adopted",
+  "short_description": "Cara is a sweet 2 years old girl, she bites when angry but overall very playful",
+  "image": "\\pet\\img\\pet1.png"
+},
+{
+  "_id": {
+    "$oid": "65760dd96d63a2400ffcaf79"
+  },
+  "id": 2,
+  "name": "Blake",
+  "age": 1,
+  "gender": "Male",
+  "type": "Cat",
+  "size": "6 kg",
+  "personality_traits": "['Clean', 'Defensive', 'Loner']",
+  "status": "Available",
+  "short_description": "Little Blake was rescued from the streets of Busaiteen, he can be a little hard to deal with, but he is very clean and tidy.",
+  "image": "/pet/img/pett2.png"
+},
+{
+  "_id": {
+    "$oid": "65760ec86d63a2400ffcaf7b"
+  },
+  "id": 3,
+  "name": "Tiger",
+  "age": 2,
+  "gender": "Male",
+  "type": "Cat",
+  "size": "1 kg",
+  "personality_traits": "['Playful', 'Defensive', 'Hugger']",
+  "status": "Available",
+  "short_description": "Tiger is a fiesty little cat, he like to play and bite but he also loves a good cuddle.",
+  "image": "/pet/img/pet3.png"
+},
+{
+  "_id": {
+    "$oid": "6576228544263d7984e7235e"
+  },
+  "id": 4,
+  "name": "Cloud",
+  "age": 2,
+  "gender": "Male",
+  "type": "Dog",
+  "size": "3 kg",
+  "personality_traits": "['Quiet', 'Kind', 'Hugger']",
+  "status": "Available",
+  "short_description": "Cloud is a beautiful angel that is the perfect intimate pet, he loveshugges and kisses and to nap!",
+  "image": "/pet/img/pet4.png"
+},
+{
+  "_id": {
+    "$oid": "6576233144263d7984e7235f"
+  },
+  "id": 5,
+  "name": "Ginger",
+  "age": 4,
+  "gender": "Female",
+  "type": "Dog",
+  "size": "2 kg",
+  "personality_traits": "['Loud', 'Playful', 'Hugger']",
+  "status": "Adopted",
+  "short_description": "meet Ginger, like a ginger cat she is crazy and lovely and unpredictable. ONly she's a dog",
+  "image": "/pet/img/pet5.png"
+},
+{
+  "_id": {
+    "$oid": "657624f24795c423c18df900"
+  },
+  "id": 6,
+  "name": "Ombre",
+  "age": 5,
+  "gender": "Female",
+  "type": "Cat",
+  "size": "4 kg",
+  "personality_traits": "['Loud', 'Defensive', 'Territorial']",
+  "status": "Available",
+  "short_description": "Ombre is a beautiful mama cat colored with brown and white. She can get naughty but she will definitely have your back.",
+  "image": "/pet/img/pet6.png"
+},
+{
+  "_id": {
+    "$oid": "65785185a250fd2f006c3707"
+  },
+  "id": 7,
+  "name": "Shade",
+  "age": 2,
+  "gender": "Female",
+  "type": "Cat",
+  "size": "2 kg",
+  "personality_traits": "['Scared', 'Kind', 'Hugger']",
+  "status": "Adopted",
+  "short_description": "Shade is a sweet grey cat that loves humans and hugs them any chance she gets. She was rescued from the streets of Juffair and has attachments issues.",
+  "image": "/pet/img/pet7.png"
+},
+{
+  "_id": {
+    "$oid": "657852bba250fd2f006c3708"
+  },
+  "id": 8,
+  "name": "Apricot",
+  "age": 1,
+  "gender": "Female",
+  "type": "Dog",
+  "size": "2 kg",
+  "personality_traits": "['Sweet', 'Loud', 'Playful']",
+  "status": "Available",
+  "short_description": "Apricot may look like a tiny angel, but she is one our loudest and feistiest pets!",
+  "image": "/pet/img/pet8.png"
+},
+{
+  "_id": {
+    "$oid": "657853b2a250fd2f006c3709"
+  },
+  "id": 9,
+  "name": "Pumpkin",
+  "age": 1,
+  "gender": "Male",
+  "type": "Dog",
+  "size": "1 kg",
+  "personality_traits": "['Sweet', 'Playful', 'Scared']",
+  "status": "Available",
+  "short_description": "Pumpkin is barely even a dog. He is very tiny and always frightened but he is very sweet and likes to play.",
+  "image": "/pet/img/pet9.png"
+},
+{
+  "_id": {
+    "$oid": "65785481a250fd2f006c370a"
+  },
+  "id": 10,
+  "name": "Nala",
+  "age": 1,
+  "gender": "Male",
+  "type": "Cat",
+  "size": "2 kg",
+  "personality_traits": "['Angry', 'Playful', 'Biter']",
+  "status": "Available",
+  "short_description": "Nala comes straight from the wild. She is very playful and energetic and she sometimes bites when too excited.",
+  "image": "/pet/img/pet10.png"
+},
+{
+  "_id": {
+    "$oid": "65785b64db1321d012fb10e9"
+  },
+  "id": 11,
+  "name": "Oreo",
+  "age": 5,
+  "gender": "Female",
+  "type": "Cat",
+  "size": "6 kg",
+  "personality_traits": "['Territorial', 'Playful', 'Biter']",
+  "status": "Available",
+  "short_description": "Oreo is a lovely black-and-white cat, she is very protective of her human and will fight you over them.",
+  "image": "/pet/img/pet11.png"
+},
+{
+  "_id": {
+    "$oid": "65785cf0db1321d012fb10ea"
+  },
+  "id": 12,
+  "name": "Stormy",
+  "age": 4,
+  "gender": "Female",
+  "type": "Dog",
+  "size": "5 kg",
+  "personality_traits": "['Sleepy', 'Calm', 'Eater']",
+  "status": "Adopted",
+  "short_description": "Where is stormy? probably sleeping. She loves her naps and loves to eat and rest.",
+  "image": "/pet/img/pet12.png"
+},
+{
+  "_id": {
+    "$oid": "658205544ebcf2bb45f3321a"
+  },
+  "id": 13,
+  "name": "Georgy",
+  "age": 4,
+  "gender": "Male",
+  "type": "Dog",
+  "size": "10 kg",
+  "personality_traits": "Quiet, Clean, Loner",
+  "status": "Available",
+  "short_description": "Georgy is the best dog for beginners, he doesn't make noises or messes just stays in his bubble with toys and food.",
+  "image": "\\pet\\img\\pet14.png"
+},
+{
+  "_id": {
+    "$oid": "65820798a30f6a9b243338d1"
+  },
+  "id": 14,
+  "name": "Luna",
+  "age": 3,
+  "gender": "Female",
+  "type": "Cat",
+  "size": "5 kg",
+  "personality_traits": "Loud, Playful, Loyal",
+  "status": "Available",
+  "short_description": "Luna is a very playful loud cat, shes likes to be active and play around. But she will always come back to her owner.",
+  "image": "\\pet\\img\\pet15.png"
+},
+{
+  "_id": {
+    "$oid": "65830c647f647d69b0bcb1ac"
+  },
+  "id": 28,
+  "name": "Susan",
+  "age": 4,
+  "gender": "Female",
+  "type": "Dog",
+  "size": "20 kg",
+  "personality_traits": "Loud, Playful, Loyal",
+  "status": "Available",
+  "short_description": "Good dog very nice",
+  "image": "\\pet\\img\\pet13.png"
+}]
